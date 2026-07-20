@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2d88241-3a01-4b47-93eb-4f1917846fd8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/dylan/Python Programming.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dylan/rag_system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MypyPlugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dylan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dylan.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pyProjectModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyProjectModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Annual Survey of State and Local Government Finances (ALFIN).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gtm_experimentation_architecture_v1_full.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dylan/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dylan/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dylan/lesson1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dylan/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dylan/maths.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dylan/predict.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dylan/sqlalchemy_core_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dylan/sqlalchemy_orm_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dylan/tuition_core.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="91" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;arrivingskills&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:arrivingskills/dylan.git&quot;,
+    &quot;accountId&quot;: &quot;f32cd3c9-8ceb-4129-bd5f-ddbbd82c0ad5&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000001605359787" />
+      <entry key="S10" value="1.0004006694131515" />
+      <entry key="S30" value="1.0737217093843399" />
+      <entry key="S60" value="1.271517420038457" />
+      <entry key="M2" value="1.5210733346069985" />
+      <entry key="M5" value="1.7704767530786025" />
+      <entry key="M10" value="1.8777680519810471" />
+      <entry key="M15" value="1.916754773285108" />
+      <entry key="M30" value="1.9574731188315984" />
+      <entry key="H1" value="1.9785055538072323" />
+      <entry key="H2" value="1.9891943963686978" />
+      <entry key="H4" value="1.9945825236593984" />
+      <entry key="D1" value="1.9990950423745089" />
+      <entry key="W1" value="1.9998706701714166" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8766057213160351" />
+      <entry key="MS500" value="0.974004268543241" />
+      <entry key="S2" value="0.9934367347173356" />
+      <entry key="S5" value="0.9973696589234561" />
+      <entry key="S10" value="0.9990742491290404" />
+      <entry key="S30" value="1.0726451331552933" />
+      <entry key="S60" value="1.270121109018295" />
+      <entry key="M2" value="1.5198331214428635" />
+      <entry key="M5" value="1.7697637979668324" />
+      <entry key="M10" value="1.8773649072886087" />
+      <entry key="M15" value="1.9164747035075873" />
+      <entry key="M30" value="1.9573271790951097" />
+      <entry key="H1" value="1.9784310588275333" />
+      <entry key="H2" value="1.989156761331779" />
+      <entry key="H4" value="1.9945636084605218" />
+      <entry key="D1" value="1.9990918762068062" />
+      <entry key="W1" value="1.9998702175269496" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3GPYUyoxQIJ8BpwxJlF3PYixYfm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "Python.rag_poc.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.google.cloudcode.ide_session_index": "20260720_0000",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/andy/ws/client-tuition/dylan",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu-24.04\home\andy\ws\client-tuition\dylan\src\dylan" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dylan" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dylan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/dylan/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rag_system" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dylan" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/dylan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="\\wsl.localhost\Ubuntu-24.04\home\andy\ws\client-tuition\dylan\src\dylan\rag_system.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.rag_system" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2d88241-3a01-4b47-93eb-4f1917846fd8" name="Changes" comment="" />
+      <created>1783171590092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783171590092</updated>
+      <workItem from="1783874691628" duration="759000" />
+      <workItem from="1783876078401" duration="99000" />
+      <workItem from="1784401906241" duration="718000" />
+      <workItem from="1784402828089" duration="338000" />
+      <workItem from="1784403221312" duration="2470000" />
+      <workItem from="1784409772802" duration="209000" />
+      <workItem from="1784409997774" duration="201000" />
+      <workItem from="1784410228180" duration="120000" />
+      <workItem from="1784410645422" duration="236000" />
+      <workItem from="1784411007532" duration="22000" />
+      <workItem from="1784411087136" duration="6000" />
+      <workItem from="1784411344908" duration="3000" />
+      <workItem from="1784588853147" duration="290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="wsl.exe " />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dylan$rag_poc.coverage" NAME="rag_poc Coverage Results" MODIFIED="1784403582417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/dylan" />
+    <SUITE FILE_PATH="coverage/dylan$main.coverage" NAME="main Coverage Results" MODIFIED="1784588899557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/dylan" />
+  </component>
+</project>

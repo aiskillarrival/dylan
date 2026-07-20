@@ -8,10 +8,17 @@ authors = [
 ]
 requires-python = ">=3.13"
 dependencies = [
+    "chromadb>=1.5.9",
     "ipykernel>=7.2.0",
+    "langchain>=1.3.14",
+    "langchain-classic>=1.0.8",
+    "langchain-community>=0.4.2",
+    "langchain-ollama>=1.1.0",
     "matplotlib>=3.10.9",
     "numpy>=2.4.6",
     "pandas>=3.0.3",
+    "pydpf>=1.2.0",
+    "pypdf>=6.14.2",
     "pytest>=9.0.3",
     "pytest-cov>=7.1.0",
     "scikit-learn>=1.9.0",
@@ -20,7 +27,7 @@ dependencies = [
 ]
 
 [project.scripts]
-dylan = "dylan:main"
+#dylan = "dylan:main"
 
 [build-system]
 requires = ["uv_build>=0.11.6,<0.12.0"]
