@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2d88241-3a01-4b47-93eb-4f1917846fd8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dylan/Python Programming.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dylan/rag_system.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MypyPlugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dylan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dylan.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pyProjectModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyProjectModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Annual Survey of State and Local Government Finances (ALFIN).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gtm_experimentation_architecture_v1_full.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dylan/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dylan/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dylan/lesson1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dylan/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dylan/maths.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dylan/predict.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dylan/sqlalchemy_core_demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dylan/sqlalchemy_orm_demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dylan/tuition_core.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,7 +224,7 @@
       <workItem from="1784411007532" duration="22000" />
       <workItem from="1784411087136" duration="6000" />
       <workItem from="1784411344908" duration="3000" />
-      <workItem from="1784588853147" duration="290000" />
+      <workItem from="1784588853147" duration="3453000" />
     </task>
     <servers />
   </component>
@@ -252,8 +234,19 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/dylan$rag_poc.coverage" NAME="rag_poc Coverage Results" MODIFIED="1784403582417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/dylan" />
-    <SUITE FILE_PATH="coverage/dylan$main.coverage" NAME="main Coverage Results" MODIFIED="1784588899557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/dylan" />
+    <SUITE FILE_PATH="coverage/dylan$main.coverage" NAME="main Coverage Results" MODIFIED="1784589205182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/dylan" />
   </component>
 </project>
